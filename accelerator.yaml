@@ -1,0 +1,10 @@
+#thetalentbot accelerators
+accelerator:
+  displayName: Customer Domain - API accelerator
+  description: "This accelerator is the template to be used to create a new microservice for the customer domain.
+                 This accelerator contains all the necessary best practices as mandated by the organization. To get started us tanzu application platform
+                 to download the accelerator and get started with your custom code" 
+  iconUrl: https://github.com/PradeepLoganathan/my-tap-accelerators/blob/main/customeraccl-img.png
+  tags:
+  - Customer-Domain
+  - webapi
